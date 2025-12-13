@@ -1,6 +1,6 @@
 {
-  "name": "new-project2",
-  "version": "1.0.0",
+  "name": "new-project-playwright-test",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
